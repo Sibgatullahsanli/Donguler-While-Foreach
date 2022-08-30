@@ -1,0 +1,1 @@
+[Patika.dev](https://app.patika.dev/sibgat)'in C# Döngüler'den While-Foreach dersinde işlediğimiz kodları içermektedir.
